@@ -10,7 +10,9 @@ This is like the python shell
 It uses the terminal package provided by [golang.org/x/crypto/ssh/terminal](golang.org/x/crypto/ssh/terminal) and the exit command.
 
 
-Uploading cli calculator.mov…
+
+
+https://github.com/user-attachments/assets/e69c86e0-2869-49e6-bbe8-32889f61797f
 
 
 
