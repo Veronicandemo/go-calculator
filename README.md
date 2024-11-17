@@ -10,6 +10,11 @@ This is like the python shell
 It uses the terminal package provided by [golang.org/x/crypto/ssh/terminal](golang.org/x/crypto/ssh/terminal) and the exit command.
 
 
+Uploading cli calculator.mov…
+
+
+
+
 ## Supported functions, operators, and constants
 Supports all the standard stuff
 
